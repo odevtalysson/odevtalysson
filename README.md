@@ -1,14 +1,16 @@
 <center>
 
-### Olá! Me chamo Talysson Felipe!
+## Olá! Me chamo Talysson Felipe! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 </center>
-  
+ <img src="https://komarev.com/ghpvc/?username=odevtalysson&color=yellow" alt="Profile views" /> 
+ 
+ 
 Bem-vindo ao meu perfil no GitHub! Aqui, compartilharei minha jornada no aprendizado em programação.
 
 Você poderá encontrar informações sobre os projetos que eu tenho trabalhado, as tecnologias que estou aprendendo e minha evolução como desenvolvedor.
 
-
+### Você também pode me encontrar nos endereços abaixo.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talysson-felipe-1451ab80/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com.br/otalyssonfelipe)
@@ -18,9 +20,20 @@ Você poderá encontrar informações sobre os projetos que eu tenho trabalhado,
 
 ### Habilidades que estou aprendendo e praticando.
 
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img align="center" alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> 
-
-<img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img align="center" alt="ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/> 
-  <div/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=000000&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=flat&labelColor=000000&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-232323?style=flat&labelColor=7952B3&logo=bootstrap&logoColor=ffffff)
+![NextJS](https://img.shields.io/badge/-NextJS-232323?style=flat&labelColor=000000&logo=nextdotjs&logoColor=ffffff)
+![Vue.js](https://img.shields.io/badge/-Vue.js-232323?style=flat&labelColor=000000&logo=vue.js&logoColor=4FC08D)
+![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
+![MongoDB](https://img.shields.io/badge/-MongoDB-232323?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&labelColor=ruby&logoColor=ffffff)
+<div/>
 
 ### Obrigado pela visita!
+
