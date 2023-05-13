@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil no GitHub! Neste perfil é onde compartilho minha jornad
 
 Aqui você encontrará informações sobre os projetos que eu tenho trabalhado, as tecnologias que estou aprendendo e minha evolução como desenvolvedor.
 
-Obrigado pela visita!
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talysson-felipe-1451ab80/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com.br/otalyssonfelipe)
@@ -22,3 +22,5 @@ Obrigado pela visita!
 
 <img align="center" alt="ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/> 
   <div/>
+
+### Obrigado pela visita!
