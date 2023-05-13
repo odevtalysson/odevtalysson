@@ -1,6 +1,12 @@
+<center>
 
-### Olá! Me chamo Talysson Felipe! 
+### Olá! Me chamo Talysson Felipe!
+
+</center>
+  
 Bem-vindo ao meu perfil no GitHub! Neste perfil é onde compartilho minha jornada em busca do aprendizado e da excelência em programação..
+
+Aqui você encontrará informações sobre os projetos que eu tenho trabalhado, as tecnologias que estou aprendendo e minha evolução como desenvolvedor.
 
 Obrigado pela visita!
 
