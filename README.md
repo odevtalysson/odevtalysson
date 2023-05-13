@@ -36,4 +36,3 @@ Você poderá encontrar informações sobre os projetos que eu tenho trabalhado,
 <div/>
 
 ### Obrigado pela visita!
-
