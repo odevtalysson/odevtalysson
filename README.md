@@ -4,9 +4,9 @@
 
 </center>
   
-Bem-vindo ao meu perfil no GitHub! Neste perfil é onde compartilho minha jornada em busca do aprendizado e da excelência em programação..
+Bem-vindo ao meu perfil no GitHub! Aqui, compartilharei minha jornada no aprendizado em programação.
 
-Aqui você encontrará informações sobre os projetos que eu tenho trabalhado, as tecnologias que estou aprendendo e minha evolução como desenvolvedor.
+Você poderá encontrar informações sobre os projetos que eu tenho trabalhado, as tecnologias que estou aprendendo e minha evolução como desenvolvedor.
 
 
 
