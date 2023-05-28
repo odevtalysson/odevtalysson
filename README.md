@@ -37,4 +37,4 @@ Você poderá encontrar informações sobre os projetos que eu tenho trabalhado,
 ### Obrigado pela visita! 
 
 
-<img src="https://giphy.com/embed/fxe8v45NNXFd4jdaNI" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/mickey90-friends-birthday-mickey-90-fxe8v45NNXFd4jdaNI">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/1ccd9l2mnpOQz96MZM/giphy.gif" width="180">
