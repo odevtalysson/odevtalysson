@@ -1,10 +1,9 @@
 <center>
-
-# Olá!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-
-</center>
- <img src="https://komarev.com/ghpvc/?username=odevtalysson&color=yellow" alt="Profile views" /> 
  
+# Olá!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</center>
+
+ <img src="https://komarev.com/ghpvc/?username=odevtalysson&color=yellow" alt="Profile views" /> 
  
 Me chamo Talysson Felipe, seja bem-vindo ao meu perfil! Aqui, compartilharei minha jornada no aprendizado em programação.
 Você poderá encontrar informações sobre os projetos que eu tenho trabalhado, as tecnologias que estou aprendendo e minha evolução como desenvolvedor.
@@ -34,7 +33,6 @@ Você poderá encontrar informações sobre os projetos que eu tenho trabalhado,
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&labelColor=ruby&logoColor=ffffff)
 <div/>
 
-### Obrigado pela visita! 
-
+### Obrigado pela visita!
 
 <img src="https://media.giphy.com/media/1ccd9l2mnpOQz96MZM/giphy.gif" width="180">
