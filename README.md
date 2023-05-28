@@ -1,13 +1,12 @@
 <center>
 
-## Olá! Me chamo Talysson Felipe! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+# Olá!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 </center>
  <img src="https://komarev.com/ghpvc/?username=odevtalysson&color=yellow" alt="Profile views" /> 
  
  
-Bem-vindo ao meu perfil no GitHub! Aqui, compartilharei minha jornada no aprendizado em programação.
-
+Me chamo Talysson Felipe, seja bem-vindo ao meu perfil! Aqui, compartilharei minha jornada no aprendizado em programação.
 Você poderá encontrar informações sobre os projetos que eu tenho trabalhado, as tecnologias que estou aprendendo e minha evolução como desenvolvedor.
 
 ### Você também pode me encontrar nos endereços abaixo.
@@ -35,4 +34,7 @@ Você poderá encontrar informações sobre os projetos que eu tenho trabalhado,
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&labelColor=ruby&logoColor=ffffff)
 <div/>
 
-### Obrigado pela visita!
+### Obrigado pela visita! 
+
+
+<img src="https://giphy.com/embed/fxe8v45NNXFd4jdaNI" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/mickey90-friends-birthday-mickey-90-fxe8v45NNXFd4jdaNI">via GIPHY</a></p>
