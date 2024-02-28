@@ -30,8 +30,9 @@ Você poderá encontrar informações sobre os projetos que eu tenho trabalhado,
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
 ![Solidity](https://img.shields.io/badge/-Solidity-232323?style=flat&labelColor=2100C41&logo=Solidity&logoColor=ffffff)
+[Rust](https://img.shields.io/badge/-Rust-232323?style=flat&labelColor=B3B3B3&logo=Rust&logoColor=ffffff)
 <div/>
 
 ### Obrigado pela visita!
 
-<img src="https://media.giphy.com/media/1ccd9l2mnpOQz96MZM/giphy.gif" width="180">
+<img src="https://<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/twsazOJH0bs5sVZF6I" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/bill-billclifferd-clifferd-twsazOJH0bs5sVZF6I">via GIPHY</a></p>" width="180">
