@@ -34,4 +34,4 @@ Você poderá encontrar informações sobre os projetos que eu tenho trabalhado,
 
 ### Obrigado pela visita!
 
-<img src="https://giphy.com/embed/twsazOJH0bs5sVZF6I" width="180">
+<img src="https://media.giphy.com/media/kaBU6pgv0OsPHz2yxy/giphy.gif?cid=790b7611e8k4gldqtpmlsbjefot3uxdch25lr2a6rz996tm5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="180">https://m
