@@ -34,4 +34,4 @@ Você poderá encontrar informações sobre os projetos que eu tenho trabalhado,
 
 ### Obrigado pela visita!
 
-<img src="https://giphy.com/embed/twsazOJH0bs5sVZF6I" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/bill-billclifferd-clifferd-twsazOJH0bs5sVZF6I">via GIPHY</a></p>" width="180">
+<img src="https://giphy.com/embed/twsazOJH0bs5sVZF6I" width="180">
