@@ -10,8 +10,7 @@ Você poderá encontrar informações sobre os projetos que eu tenho trabalhado,
 
 ### Você também pode me encontrar nos endereços abaixo.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talysson-felipe-1451ab80/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com.br/otalyssonfelipe)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com.br/talyssonfelipe1)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otalyssonfelipe@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odevtalysson&show_icons=true&theme=dracula)
@@ -30,7 +29,7 @@ Você poderá encontrar informações sobre os projetos que eu tenho trabalhado,
 ![MongoDB](https://img.shields.io/badge/-MongoDB-232323?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&labelColor=ruby&logoColor=ffffff)
+![Solidity](https://img.shields.io/badge/-Solidity-232323?style=flat&labelColor=2100C41&logo=Solidity&logoColor=ffffff)
 <div/>
 
 ### Obrigado pela visita!
