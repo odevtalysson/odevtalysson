@@ -10,7 +10,7 @@ Você poderá encontrar informações sobre os projetos que eu tenho trabalhado,
 
 ### Você também pode me encontrar nos endereços abaixo.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com.br/talyssonfelipe1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com.br/otalyssonfelipe)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otalyssonfelipe@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odevtalysson&show_icons=true&theme=dracula)
